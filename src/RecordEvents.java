@@ -11,7 +11,6 @@ class RecordEvents {
 		r1.recordEvent("13:59", 10);
 		r1.recordEvent("12:06", 10);
 		r1.printEvents();
-		r1.recordEvent("12:07", 10);
 	}
 }
 
